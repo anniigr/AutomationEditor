@@ -43,7 +43,7 @@ A list below the controls records every step as a *(state, symbol)* pair. `KROK`
 
 | 1. Adding and dragging states | 2. Customising state appearance |
 | :--: | :--: |
-| ![Adding states](Images/add.gif) | ![Customising states](Images/customise.gif) |
+| ![Adding states](Images/add.gif) | ![Customising states](Images/edit.gif) |
 | 3. Adding transitions and self-loops | 4. Step-by-step simulation |
 | ![Adding transitions](Images/transitions.gif) | ![Step simulation](Images/simulation.gif) |
 | 5. Animation mode with speed control | 6. Import and export |
