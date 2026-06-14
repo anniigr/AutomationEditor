@@ -10,9 +10,6 @@ The main idea of the application is to provide an interactive canvas-based envir
 
 The interface is split into two views — **Lab** (the editor) and **Home** (the simulator) — so the design and the execution concerns stay clearly separated.
 
-## Example of usage
-![Example of usage](Images/example-of-usage.png)
-
 ## Technical features
 
 **1. Interactive canvas editor.**
